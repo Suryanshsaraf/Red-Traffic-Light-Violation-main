@@ -1,5 +1,5 @@
 # Red Traffic Light Violation Detection System
-
+This is a project done during my Summer Research Internship at VJTI Matunga 2025.
 This project is a high-performance **Red Traffic Light Violation Detection System** that leverages state-of-the-art computer vision to automate traffic enforcement.
 
 ### 🚦 Project Overview
