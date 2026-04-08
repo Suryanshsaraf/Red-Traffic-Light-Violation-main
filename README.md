@@ -43,8 +43,3 @@ This system monitors traffic feeds to detect and record vehicles that bypass red
 *   `yolov10s.pt`: Pre-trained weights for vehicle detection.
 *   `tr.mp4`: Test video file.
 *   `coco.txt`: Class names for detection.
-
----
-
-**Potential GitHub Tagline:**
-> 🚗🚦 AI-powered traffic enforcement system using YOLOv10 and OpenCV to detect and log red-light violations in real-time.
